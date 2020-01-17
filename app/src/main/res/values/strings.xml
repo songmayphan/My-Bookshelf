@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Bookshelf 2</string>
+    <string name="my_books">My Books</string>
+    <string name="add_book">Add Book</string>
+    <string name="testing_book">testing book</string>
+    <string name="enter_book_s_name">Enter book\'s name</string>
+    <string name="question">What book have you read?</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="author">Author</string>
+    <string name="bookName">book\'s name:</string>
+    <string name="authorName">, written by </string>
+    <string name="enter_author_s_name">Enter author\'s name</string>
+</resources>
